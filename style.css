@@ -238,7 +238,7 @@ body{
         padding: 14vmin 18vmin;
     }
     footer p>span{
-        color:green #78ff34;
+        color: #78ff34;
     }
     footer input{
         border: none !important;
@@ -251,7 +251,7 @@ body{
         border: none;
     }
     footer .column{
-        color:green #78ff34;
+        color: #78ff34;
     }
     footer .column i{
         padding: 1vmin;
